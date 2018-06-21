@@ -1,0 +1,26 @@
+.main-section-wrapper {
+    background: #fafafa;
+    border-bottom: 1px rgba(0,0,0,.0975) solid;
+  }
+  
+  .main-section {
+    margin: auto;
+    width: 935px;
+  }
+  
+  .wall {
+  
+  }
+  
+  .pic {
+    list-style-type: none;
+    display: inline-block;
+    margin: 14px 0px 14px 0px;
+    width: 293px;
+    height: 293px;
+    background: #ff5544;
+  }
+  
+  .pic:nth-child(3n+2) {
+    margin: 14px 28px 14px 28px;
+  }

@@ -1,0 +1,39 @@
+.header-wrapper {
+    background: #fff;
+    border-bottom: 1px rgba(0,0,0,.0975) solid;
+  }
+  
+  .header {
+    display: flex;
+    margin: auto;
+    width: 1010px;
+    height: 80px;
+    align-items: center;
+  }
+  
+  .header-part {
+    display: flex;
+    width: 336.66px;
+    justify-content: center;
+  }
+  
+  .header-part input {
+    border-radius: 3px;
+    border: solid 1px #dbdbdb;
+    height: 28px;
+    width: 215px;
+    color: #262626;
+  }
+  
+  .menu {
+    display: inline-flex;
+  }
+  
+  .menu-icon {
+    background-image: url("../../../global/images/test_icon.png"); 
+    background-repeat: no-repeat;
+    height: 24px;
+    width: 24px;
+    margin: 0px 15px 0px 15px;
+  }
+  
